@@ -2,7 +2,7 @@
  * Debugging script for dumping an array of the registered scripts and stylesheets
  * Note: You can change 'handle' for 'src' to view a scripts' filename
  * 
- * @since		1.0.0
+ * @author		gantsta
  */
 function print_scripts_styles() {
 	$result = [];
